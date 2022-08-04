@@ -1,17 +1,17 @@
 #!/bin/bash
 
-cd ../script
+cd script
 
 # Multi-news dataset
 DATA_NAME="multi_news"
-# Multi-xscience dataset
-DATA_NAME="multi_x_science_sum"
-# Wikisum dataset
-DATA_NAME="wikisum"
-# wcep dataset
-DATA_NAME="wcep"
-# arxiv dataset
-DATA_NAME="arxiv"
+# # Multi-xscience dataset
+# DATA_NAME="multi_x_science_sum"
+# # Wikisum dataset
+# DATA_NAME="wikisum"
+# # wcep dataset
+# DATA_NAME="wcep"
+# # arxiv dataset
+# DATA_NAME="arxiv"
 
 
 # original PRIMER model
